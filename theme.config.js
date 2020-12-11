@@ -24,6 +24,7 @@ export default {
         <meta name="twitter:site" content="@GlennHSRobotics" />
         <meta name="og:title" content="See updates for FTC team 11918, Grizzly Bots." />
         <meta name="apple-mobile-web-app-title" content="Grizzly Bots Team Updates" />
+        <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
       </React.Fragment>
     )
   }
